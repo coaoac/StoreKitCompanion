@@ -1,5 +1,0 @@
-line_length: 180
-disabled_rules:
-  - identifier_name
-included:
- - ../Source

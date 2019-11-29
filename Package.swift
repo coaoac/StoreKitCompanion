@@ -2,5 +2,10 @@
 import PackageDescription
 
 let package = Package(
-  name: "StoreKitCompanion"
+  name: "StoreKitCompanion",
+  dependencies: [],
+  targets: [
+    .target(name: "StoreKitCompanion",
+            dependencies: [])
+    ]
 )
